@@ -96,8 +96,6 @@ osTicket-Installation-Files/
 5. Drag the zip file to the Desktop for easy access
 6. Right-click the zip file, select **Extract All**, and confirm the Desktop as the destination. The extracted folder will be named **osTicket-Installation-Files**
 7. Move the **osTicket-Installation-Files** folder to a prominent spot on the Desktop (e.g., top-right corner). Move the original zip file to the Recycle Bin to avoid confusion
-![Screenshot 2025-06-03 003035]()
-![Screenshot 2025-06-03 003123]()
 
 <table>
   <tr>
