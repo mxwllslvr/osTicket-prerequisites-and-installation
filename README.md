@@ -62,11 +62,18 @@ This guide walks you through the prerequisites and steps to install osTicket, an
 
 ---
 
-
-
-
-
 ### Step 2: Download and Extract Installation Files
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/fac5dd22-4d7f-453e-893b-035a58da9409"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/1b390e28-469f-441d-9960-056f677554f3"/>
+    </td>
+  </tr>
+</table>
 
 1. Log into **osTicket-vm** using Remote Desktop Connection (`mstsc`)
 2. Open a browser, paste the [osTicket Installation Files](https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0&confirm=t&uuid=8cf1d834-66c2-4a02-bec9-baebba57730f&at=ALoNOgmkk8isFnjOIHlNwOyEV9ym%3A1748911963663) link, and download the zip file
@@ -89,6 +96,19 @@ osTicket-Installation-Files/
 5. Drag the zip file to the Desktop for easy access
 6. Right-click the zip file, select **Extract All**, and confirm the Desktop as the destination. The extracted folder will be named **osTicket-Installation-Files**
 7. Move the **osTicket-Installation-Files** folder to a prominent spot on the Desktop (e.g., top-right corner). Move the original zip file to the Recycle Bin to avoid confusion
+![Screenshot 2025-06-03 003035]()
+![Screenshot 2025-06-03 003123]()
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/5423d8f8-54c4-4484-90d2-92077dd11c34"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/673eb98f-7118-4b7e-890a-b064076cdad2"/>
+    </td>
+  </tr>
+</table>
 
 ### Step 3: Enable IIS and CGI
 
