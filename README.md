@@ -316,14 +316,11 @@ osTicket-Installation-Files/
 4. Click **Install Now**
 5. Upon success, note the URLs provided (e.g., Staff Control Panel) for future use
 
-![Screenshot 2025-06-03 041016](https://github.com/user-attachments/assets/c87a43fe-31ca-4902-a9d7-016aa7982da3)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<div align="center"> <img src="https://github.com/user-attachments/assets/44e16c30-0cac-440d-aab5-5bd54926b1e3" width="60%"> </div>
 
----
-
-![osTicket Success](https://github.com/user-attachments/assets/44e16c30-0cac-440d-aab5-5bd54926b1e3)
-
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## Conclusion
 
@@ -340,4 +337,8 @@ In future projects, we'll explore post-installation configurations. Remember to 
 
 ---
 
-[← Back to Main Page](https://www.github.com/mxwllslvr)
+<div align="center">
+
+<a href="https://www.github.com/mxwllslvr">- BACK TO MAIN PAGE -</a>
+
+</div>
