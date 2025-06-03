@@ -172,6 +172,17 @@ osTicket-Installation-Files/
 
 ### Step 6: Register PHP in IIS
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/4f73636f-0f26-4643-bb0b-72af2168ac01"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/2c180ba8-fce2-4db1-ba8a-b6fee9ac6efe"/>
+    </td>
+  </tr>
+</table>
+
 1. Open the Start Menu, search for **IIS**, and run **Internet Information Services (IIS) Manager** as an administrator
 2. Double-click **PHP Manager**
 3. Click **Register new PHP version**, then browse to **C:\PHP**
@@ -179,6 +190,17 @@ osTicket-Installation-Files/
 5. In IIS, right-click **osTicket-vm** (under **Connections**), select **Stop**, wait a few seconds, then select **Start** to restart the server
 
 ### Step 7: Extract and Configure osTicket
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/fe48d640-f0ba-4978-a113-2935cf2f5042"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/3ca584b5-d4eb-413a-b22f-bb84d9d6d0ab"/>
+    </td>
+  </tr>
+</table>
 
 1. In the **osTicket-Installation-Files** folder, right-click `osTicket-v1.15.8.zip` and select **Extract All**. Extract to the **osTicket-Installation-Files** folder
 2. Open the extracted **osTicket-v1.15.8** folder, which contains scripts and upload folders
@@ -189,11 +211,33 @@ osTicket-Installation-Files/
 
 ### Step 8: Verify osTicket Installation
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/8bf07128-ac09-4071-aa12-19d8e0811b5e"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/6c387314-f8b5-4b67-a868-7518bf5d43cf"/>
+    </td>
+  </tr>
+</table>
+
 1. In IIS Manager, navigate to **osTicket-vm** → **Sites** → **Default Web Site** → **osTicket**
 2. Under **Browse Website**, click **Browse *:80 (http)**
 3. The osTicket setup page should load, indicating a successful setup so far
 
 ### Step 9: Enable PHP Extensions
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/2a78f4da-7e01-4df3-b13b-2ba5911bd9c3"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/3d16fec1-68cb-4d63-823b-69b9a4163cb5"/>
+    </td>
+  </tr>
+</table>
 
 1. In IIS Manager, navigate to **osTicket-vm** → **Sites** → **Default Web Site** → **osTicket**
 2. Double-click **PHP Manager**, then click **Enable or disable an extension**
@@ -205,6 +249,17 @@ osTicket-Installation-Files/
 
 ### Step 10: Configure osTicket Files
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/f7820270-e106-42b5-b46f-8fd1a6201c01"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/6f8bf4eb-db30-4c5a-8216-d87808a84ebb"/>
+    </td>
+  </tr>
+</table>
+
 1. In File Explorer, navigate to **C:\inetpub\wwwroot\osTicket\include**
 2. Locate `ost-sampleconfig.php` and rename it to `ost-config.php` (exact spelling)
 3. Right-click `ost-config.php`, select **Properties**, and go to the **Security** tab
@@ -215,6 +270,17 @@ osTicket-Installation-Files/
 8. Check **Full control**, click **OK**, then **Apply**, and **OK** to close all dialogs
 
 ### Step 11: Install HeidiSQL and Configure Database
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/e36f91ff-987f-4092-a079-fa5a62f0db67"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/2d136883-4fc0-47dd-ac9a-ece82e727eff"/>
+    </td>
+  </tr>
+</table>
 
 1. In the **osTicket-Installation-Files** folder, run `HeidiSQL_12.3.0.6589_Setup.exe`
 2. Accept defaults, install, and check **Launch HeidiSQL** before clicking **Finish**
