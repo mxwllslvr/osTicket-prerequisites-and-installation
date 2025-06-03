@@ -151,6 +151,17 @@ osTicket-Installation-Files/
 
 ### Step 5: Install and Configure MySQL
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/26b52481-f3a4-4ad7-8d8b-8dbd69e92b82"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/14fdc306-49e0-440b-a707-a42b077136f0"/>
+    </td>
+  </tr>
+</table>
+
 1. From the **osTicket-Installation-Files** folder, run `mysql-5.5.62-win32.msi`
 2. Choose **Typical** setup and click **Next**
 3. After installation, check **Launch the MySQL Instance Configuration Wizard** and click **Finish**
