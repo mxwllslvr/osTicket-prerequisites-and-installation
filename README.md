@@ -291,6 +291,17 @@ osTicket-Installation-Files/
 
 ### Step 12: Complete osTicket Setup
 
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/c3f00f0e-8e7b-4ee9-9cf5-5bd01224905c"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/1742c770-99dd-4cfe-a0e0-19ebc48cd58e"/>
+    </td>
+  </tr>
+</table>
+
 1. Return to the osTicket setup page in the browser and click **Continue**
 2. Fill in the Help Desk details:
    - **Help Desk Name**: Choose a name
@@ -304,6 +315,9 @@ osTicket-Installation-Files/
    - **MySQL Password**: `ROOT`
 4. Click **Install Now**
 5. Upon success, note the URLs provided (e.g., Staff Control Panel) for future use
+
+![Screenshot 2025-06-03 041016](https://github.com/user-attachments/assets/c87a43fe-31ca-4902-a9d7-016aa7982da3)
+
 
 ---
 
