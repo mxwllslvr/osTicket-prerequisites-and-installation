@@ -110,7 +110,18 @@ osTicket-Installation-Files/
 
 ### Step 3: Enable IIS and CGI
 
-1. Open the Start Menu, search for **Control Panel**, and select **Programs and Features**
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/7b14da5a-9448-4763-9267-210cb6a3b890"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/a97e0a25-d9be-4fc7-931a-d4f6572b3ff9"/>
+    </td>
+  </tr>
+</table>
+
+1. Open the Start Menu, search for **Control Panel**, and select **Programs**, then **Programs and Features**
 2. Click **Turn Windows features on or off** on the left
 3. In the Windows Features window, check **Internet Information Services**
 4. Expand **Internet Information Services** → **World Wide Web Services** → **Application Development Features**
@@ -118,6 +129,17 @@ osTicket-Installation-Files/
 6. Open a browser and navigate to `127.0.0.1`. You should see the default IIS webpage, confirming IIS is enabled
 
 ### Step 4: Install PHP and Related Components
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="OT4" src="https://github.com/user-attachments/assets/6f6a7fe4-cd50-47bd-b55c-230ee4a99f31"/>
+    </td>
+    <td>
+      <img width="1000" alt=<"OT5" src="https://github.com/user-attachments/assets/b49d1e8f-fefe-4011-a9d8-ebd5554a54cc"/>
+    </td>
+  </tr>
+</table>
 
 1. Open the **osTicket-Installation-Files** folder on the Desktop
 2. Install **PHP Manager for IIS** (`PHPManagerForIIS_V1.5.0.msi`). Accept all defaults and complete the installation
