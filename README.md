@@ -3,7 +3,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br/><br/>
 
-![Github Banner - osTicket Prerequisites and Installation](https://github-production-user-asset-6210df.s3.amazonaws.com/76263416/450453628-5d9e3172-4dff-418d-a651-7801484df0ad.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250602T235519Z&X-Amz-Expires=300&X-Amz-Signature=a6bb235da465962759252a3195f3c8aec6baeb1d0ecf1d4e4e6997e91f08f36f&X-Amz-SignedHeaders=host)
+![Github Banner - osTicket Prerequisites and Installation](https://github.com/user-attachments/assets/6d1da7f1-0e10-4c99-baef-9855c11e4dc4)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
