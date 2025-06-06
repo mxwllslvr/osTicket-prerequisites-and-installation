@@ -318,7 +318,7 @@ osTicket-Installation-Files/
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/44e16c30-0cac-440d-aab5-5bd54926b1e3" width="60%"> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/c610dfea-c80f-4975-8fb1-2e2d717f43c5" width="60%"> </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
